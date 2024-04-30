@@ -4,11 +4,11 @@ Dejo también algo de información interesante que os puede servir:
 
 Aquí puedes saber más de [SEO para autónomos](https://redactores-online.com/seo-para-autonomos/)
 
-**¿Qué son las Autoauditorías SEO?**
+## **¿Qué son las Autoauditorías SEO?**
 
 Las autoauditorías SEO son un proceso integral de evaluación de un sitio web para identificar áreas de mejora en términos de visibilidad en los motores de búsqueda. Estas auditorías examinan diversos aspectos, como la estructura del sitio, la calidad del contenido, la optimización de palabras clave, la velocidad de carga y la experiencia del usuario, entre otros.
 
-**Importancia para los Autónomos**
+## **Importancia para los Autónomos**
 
 Para los autónomos, cuyo éxito a menudo depende de su capacidad para atraer clientes en línea, las autoauditorías SEO son aún más cruciales. Aquí hay algunas razones por las cuales:
 
